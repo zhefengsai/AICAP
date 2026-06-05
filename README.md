@@ -2,7 +2,7 @@
 
 Reference implementation of the **AICAP** protocol for cross-chain atomic swaps with risk-aware routing (**RISK-OPTI**), on-chain collateral arbitration (**LPManager**), and HTLC-style settlement (**SwapExecutor**). Includes the **AIOR** (AI Offline Routing) agent layer with optional [DeepSeek](https://platform.deepseek.com/) intent parsing.
 
-> Companion repository for the AICAP paper. Simulation benchmarks live in [`aicap_exp`](../aicap_exp).
+> Companion repository for the AICAP paper. 
 
 ## Repository layout
 
