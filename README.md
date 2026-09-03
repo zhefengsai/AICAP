@@ -1,4 +1,4 @@
-# AICAP — AICAP:AI-Optimized Cross-Chain Atomic Swap Protocol
+# AICAP: Intent-Centric Graph Analytics for Risk-Aware Atomic Cross-Chain Data Routing
 
 Reference implementation of the **AICAP** protocol for cross-chain atomic swaps with risk-aware routing (**RISK-OPTI**), on-chain collateral arbitration (**LPManager**), and HTLC-style settlement (**SwapExecutor**). Includes the **AIOR** (AI Offline Routing) agent layer with optional [DeepSeek](https://platform.deepseek.com/) intent parsing.
 
